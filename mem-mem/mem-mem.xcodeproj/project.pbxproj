@@ -53,6 +53,7 @@
 		5A78FBCE1C401E3200307AA1 /* mem-memUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mem-memUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A78FBD21C401E3200307AA1 /* mem_memUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mem_memUITests.m; sourceTree = "<group>"; };
 		5A78FBD41C401E3200307AA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A78FBE01C412BC000307AA1 /* Swift-Mem-Mem.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift-Mem-Mem.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +114,7 @@
 				5A78FBBE1C401E3200307AA1 /* Info.plist */,
 				5A78FBB61C401E3200307AA1 /* mem_mem.xcdatamodeld */,
 				5A78FBAA1C401E3200307AA1 /* Supporting Files */,
+				5A78FBE01C412BC000307AA1 /* Swift-Mem-Mem.playground */,
 			);
 			path = "mem-mem";
 			sourceTree = "<group>";
